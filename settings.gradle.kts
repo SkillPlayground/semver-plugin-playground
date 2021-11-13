@@ -13,3 +13,5 @@ dependencyResolutionManagement {
         mavenLocal()
     }
 }
+
+include(":library")
